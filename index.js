@@ -60,10 +60,10 @@ say('ZIM-BOT\nV4', {
 Drips.hr();
 console.log(color(''), color('THANKS FOR CHOOSING ZIM BOT', 'green'))
 console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
-console.log(color( ''), color('https://wa.me/27634090203','cyan'))
+console.log(color( ''), color('https://wa.me/00263784675236','cyan'))
 Drips.hr();
-Drips.banner(`DRIPS ZIM BOT OWNER`)
-Drips.ok('WELCOME TO ZIMBOT')
+Drips.banner(`TRADER_NYAMA BOT OWNER`)
+Drips.ok('WELCOME TO BOT_NYAMA')
 Drips.done('I WROTE THIS SCRIPT BY MYSELF')
 Drips.info('YOU WANNA CONTRUBUTE FEEL FREE TO CONTACT ME, BEING FRIENDLY IS MY LANGUAGE')
 Drips.error('')
@@ -160,8 +160,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://youtu.be/Invxa1tg6wc`, 
+sourceUrl: `https://youtu.be/Invxa1tg6wc`,
 }}
 }
 const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
@@ -192,9 +192,9 @@ title:"ZIM BOT V4",
 body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
-thumbnail: mhatadzenyu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+thumbnail: USADARO,
+mediaUrl:`https://youtu.be/Invxa1tg6wc`, 
+sourceUrl: `https://youtu.be/Invxa1tg6wc`,
 }}
 }
 const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
